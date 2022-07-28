@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music player</string>
+    <string name="songs_list">Songs List</string>
+    <string name="todo">todo</string>
+    <string name="todo1">todo1</string>
+    <string name="todo2">TODO</string>
+</resources>
